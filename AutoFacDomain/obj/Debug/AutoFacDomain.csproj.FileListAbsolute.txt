@@ -1,0 +1,9 @@
+F:\AutoFacInjectable\AutoFacDomain\bin\Debug\AutoFacDomain.dll
+F:\AutoFacInjectable\AutoFacDomain\bin\Debug\AutoFacDomain.pdb
+F:\AutoFacInjectable\AutoFacDomain\obj\Debug\AutoFacDomain.csprojResolveAssemblyReference.cache
+F:\AutoFacInjectable\AutoFacDomain\obj\Debug\AutoFacDomain.dll
+F:\AutoFacInjectable\AutoFacDomain\obj\Debug\AutoFacDomain.pdb
+F:\AutoFacInjectable\AutoFacDomain\bin\Debug\AutoFacCommon.dll
+F:\AutoFacInjectable\AutoFacDomain\bin\Debug\AutoFacData.dll
+F:\AutoFacInjectable\AutoFacDomain\bin\Debug\AutoFacCommon.pdb
+F:\AutoFacInjectable\AutoFacDomain\bin\Debug\AutoFacData.pdb

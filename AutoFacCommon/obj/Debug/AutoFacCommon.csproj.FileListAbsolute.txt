@@ -1,0 +1,4 @@
+F:\AutoFacInjectable\AutoFacCommon\bin\Debug\AutoFacCommon.dll
+F:\AutoFacInjectable\AutoFacCommon\bin\Debug\AutoFacCommon.pdb
+F:\AutoFacInjectable\AutoFacCommon\obj\Debug\AutoFacCommon.dll
+F:\AutoFacInjectable\AutoFacCommon\obj\Debug\AutoFacCommon.pdb

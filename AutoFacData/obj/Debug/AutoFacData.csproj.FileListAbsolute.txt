@@ -1,0 +1,7 @@
+F:\AutoFacInjectable\AutoFacData\bin\Debug\AutoFacData.dll
+F:\AutoFacInjectable\AutoFacData\bin\Debug\AutoFacData.pdb
+F:\AutoFacInjectable\AutoFacData\obj\Debug\AutoFacData.dll
+F:\AutoFacInjectable\AutoFacData\obj\Debug\AutoFacData.pdb
+F:\AutoFacInjectable\AutoFacData\bin\Debug\AutoFacCommon.dll
+F:\AutoFacInjectable\AutoFacData\bin\Debug\AutoFacCommon.pdb
+F:\AutoFacInjectable\AutoFacData\obj\Debug\AutoFacData.csprojResolveAssemblyReference.cache
