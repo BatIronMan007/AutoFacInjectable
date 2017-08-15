@@ -7,7 +7,7 @@ namespace AutoFacInjectable.Controllers
 {
     public class EmployeeController : ApiController
     {
-        private IEmployeeManager _employeeManager;
+        private readonly IEmployeeManager _employeeManager;
 
         public EmployeeController(IEmployeeManager employeeManager)
         {
